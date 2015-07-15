@@ -1,5 +1,6 @@
-function test()
+function Plot(x,y,id)
 {
-alert("hai");
+// get the canvas detils
+
 }
 
